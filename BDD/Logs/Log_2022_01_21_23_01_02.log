@@ -1,0 +1,6 @@
+2022-01-21 13:23:08,989  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-21 13:23:09,805  INFO [main] validpageStepDef:14 - signin is clicked in page home page
+2022-01-21 13:23:15,319  INFO [main] validpageStepDef:14 - Email field is send in page Account Log in
+2022-01-21 13:23:15,736  INFO [main] validpageStepDef:14 - password field is send in page Account Log in
+2022-01-21 13:23:16,430  INFO [main] validpageStepDef:14 - sign in button is clicked in page Account Log in
+2022-01-21 13:23:16,986  INFO [main] validpageStepDef:14 - Successfully logged in
